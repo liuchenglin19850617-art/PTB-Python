@@ -1,4 +1,4 @@
-# [Project Name]
+# PTB-Python
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL--3.0-blue.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)]()
@@ -31,13 +31,7 @@ The source code is released under the **GNU Lesser General Public License v3.0 (
 
 ## Download
 
-Go to the [Releases](https://github.com/[your-username]/[Project Name]/releases) page and download the latest package:
-
-- `[Project Name]-vX.Y.Z-win64.zip`
-
-Extract it to any folder and you are ready to go.
-
----
+Go to the Releases
 
 ## Quick Start
 
