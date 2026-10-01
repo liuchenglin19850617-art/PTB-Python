@@ -4,7 +4,7 @@
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)]()
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](https://www.python.org/)
 
-[Project Name] is a portable, open-source Windows application built on Python. It bundles the Python runtime and required dependencies, so **no installation is required** — just extract and run. It does not modify the registry or rely on a system-wide Python installation. Optional administrator elevation is supported for tools that need elevated privileges.
+PTB-Python is a portable, open-source Windows application built on Python. It bundles the Python runtime and required dependencies, so **no installation is required** — just extract and run. It does not modify the registry or rely on a system-wide Python installation. Optional administrator elevation is supported for tools that need elevated privileges.
 
 The source code is released under the **GNU Lesser General Public License v3.0 (LGPL-3.0)**. This distribution also includes the Python Software Foundation License Version 2 and other third-party licenses. See the [`licenses/`](licenses/) directory for details.
 
@@ -29,14 +29,10 @@ The source code is released under the **GNU Lesser General Public License v3.0 (
 
 ---
 
-## Download
-
-Go to the Releases
-
 ## Quick Start
 
-1. Download and extract `[Project Name]-vX.Y.Z-win64.zip`.
-2. Double-click `run.bat` or `[Project Name].exe` to start the application.
+1. Download and extract `PTB-Python-vX.Y.Z-win64.zip`.
+2. Double-click `run.bat` or `PTB-Python.exe` to start the application.
 3. If administrator privileges are required, right-click and select **Run as administrator**, or simply double-click (if built with `--uac-admin`, it will request elevation automatically).
 
 > The application does not write to system directories or the registry. All configuration is stored in `config.json` inside the application folder.
